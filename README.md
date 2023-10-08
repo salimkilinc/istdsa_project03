@@ -5,4 +5,4 @@ In this project, which we briefly call 'User Type Prediction', citibike® asked 
 
 You can check out the whole analysis by reviewing the project notebook and the python file or you can read my article on Medium for explanations:
 
-Ayrıca bu projede eğittiğimiz modeli bir streamlit uygulaması olarak da kullanabilirsiniz: https://istdsaproject03.streamlit.app
+You can also use the model we trained in this project as a streamlit application: https://istdsaproject03.streamlit.app
